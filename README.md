@@ -11,4 +11,4 @@ Bu proje, bir bebek ürünleri satış sitesinin veritabanı tasarımını içer
 - SQL (SQL Server)
 
 ## Açıklama
-Projede temel veritabanı tasarımı uygulanmıştır. Kullanıcı arayüzü bulunmamaktadır, proje eğitim amaçlı geliştirilmiştir.
+Projede temel veritabanı tasarımı uygulanmıştır. 
